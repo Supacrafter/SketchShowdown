@@ -1,4 +1,3 @@
-using System;
 using UnityEngine;
 
 /*
@@ -6,7 +5,7 @@ using UnityEngine;
  * Will be used for things needed such as the Logger, and more to come
  */
 
-namespace SketchShowdown._Project.Scripts.Core
+namespace _Project.Scripts.Core
 {
     public class GameManager : MonoBehaviour
     {

@@ -5,7 +5,7 @@ using UnityEngine;
  * In its own class in case more features are needed
  * Will be used as a Singleton
  */
-namespace SketchShowdown._Project.Scripts.Core
+namespace _Project.Scripts.Core
 {
     public class Logger
     {

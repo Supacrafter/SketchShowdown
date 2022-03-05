@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using UnityEngine.InputSystem;
 using UnityEngine.InputSystem.Utilities;
 
-namespace SketchShowdown._Project.Controls
+namespace _Project.Controls
 {
     public class @PlayerControls : IInputActionCollection, IDisposable
     {
