@@ -1,5 +1,5 @@
 # Sketch Showdown
-## A platform-team fighting game hybrid
+A platform-team fighting game hybrid
 
 # Table of Contents
 - 1. Dependencies
