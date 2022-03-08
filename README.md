@@ -1,3 +1,6 @@
-# Nothing here yet...
+# Sketch Showdown
+A platform-team fighting game hybrid
 
-Stay tuned!!!
+# Table of Contents
+- 1. Dependencies
+- 2. Setup
